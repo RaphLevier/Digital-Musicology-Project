@@ -15,3 +15,5 @@ I didn’t find publications or paper that specifically discusses this subject, 
 -	Support :
 I think I’ll need support to find documentation on the subject (papers and publications), and maybe to find the right datasets.
 
+I didn't find a group, though I posted a message on Piazza, nobody answered.
+
